@@ -14,7 +14,7 @@ void MultiplyNumbers()
     cin >> firstNumber;
 
     cout << "Enter the second number: ";
-    cin >> secondNumber;
+    cin >> secondNumber;   
 
     multiplicationResult = firstNumber * secondNumber;
 
