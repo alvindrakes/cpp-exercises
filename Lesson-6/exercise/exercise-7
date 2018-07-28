@@ -1,0 +1,3 @@
+
+BUG BUSTER
+    Ans: the switch case doesn't have a 'break' statement which will cause the default code to run every time.

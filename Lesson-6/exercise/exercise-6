@@ -1,0 +1,3 @@
+
+BUG BUSTER
+    Ans: The while statement has a semicolon at the end, which causes the while statement to not execute on 1st run. 

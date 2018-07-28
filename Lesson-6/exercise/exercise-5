@@ -1,0 +1,3 @@
+
+BUG BUSTER
+    Ans: The second loop condition is not a comparison but a initialization which is wrong.
