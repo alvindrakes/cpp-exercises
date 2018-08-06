@@ -1,0 +1,2 @@
+
+Ans: The scope of the variable declared in a function is only within the lifetime of the function

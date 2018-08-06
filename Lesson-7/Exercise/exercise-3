@@ -1,0 +1,4 @@
+
+Bug Buster
+Ans: The area function parameter 'result' is not passed by reference, so the result variable is destroyed at the end of area function lifetime. 
+        Exp: double Area ( double radius, double &result);

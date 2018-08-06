@@ -1,0 +1,4 @@
+
+Bug buster
+Ans: Default parameters should be placed at the end of the brackets
+        Exp: double Area ( double radius, double height = 7);

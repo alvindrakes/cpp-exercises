@@ -1,0 +1,17 @@
+
+Ans:
+
+void CircleCal ( double radius )
+{
+    const double pi = 3.1416;
+    double circumference = 0;
+    double area = 0;
+
+    circumference = 2 * pi * radius; 
+    area = pi * radius * radius * 2; 
+
+    cout << "The area of the circle is: " << area << endl;
+    cout << "The circumference of the circle is: " << circumference << endl;
+
+    return 0;
+}
